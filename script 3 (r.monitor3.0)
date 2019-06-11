@@ -6,6 +6,7 @@ import SocketServer
 import subprocess
 import time
 import sys
+import helpers
 
 def commit_observe():
     parser = argparse.ArgumentParser()
