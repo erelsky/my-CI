@@ -4,7 +4,7 @@ import re
 import argparse
 import SocketServer
 import subprocess
-import tire
+import time
 import sys
 
 def commit_observe():
